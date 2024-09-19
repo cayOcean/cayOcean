@@ -24,3 +24,10 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cayque-santos-b54641230/)
 - 📸 [Instagram](https://www.instagram.com/cayquelima/)
 
+<div align="center">
+  <a href="https://open.spotify.com/user/31m4jmbopazyhsnk42p65phit4rq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m4jmbopazyhsnk42p65phit4rq&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
