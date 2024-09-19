@@ -29,7 +29,7 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cayque-santos-b54641230/)
 - 📸 [Instagram](https://www.instagram.com/cayquelima/)
   
-<div align="center">
+<div align="left">
   <img height="200" src="https://i.pinimg.com/originals/56/f9/2c/56f92c63b67641b419cf3df54505771c.gif"  />
 </div>
 
