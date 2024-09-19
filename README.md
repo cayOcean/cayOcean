@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá, eu sou Cayque Santos!</h2>
+<h2 align="left">👋 Olá, eu sou Cayque, mas pode me chamar de Cay!</h2>
 
 <p align="left">🎓 Aluno de Tecnólogo em Análise e Desenvolvimento de Sistemas<br><br>Estou no início da minha jornada na programação e desenvolvimento de software, e estou animado para aplicar e expandir meus conhecimentos em projetos reais. Atualmente, estou focado em aprimorar minhas habilidades em Java e Desenvolvimento web.</p>
 
