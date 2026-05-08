@@ -1,4 +1,3 @@
-```html
 <h2 align="left">👋 Olá, eu sou Cayque, mas pode me chamar de Cay!</h2>
 
 <p align="left">
@@ -38,11 +37,10 @@
 
 <h2 align="left">📫 Contatos</h2>
 
-- 📧 [Email](mailto:cayquelima4@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/cayque-santos-b54641230/)
-- 📸 [Instagram](https://www.instagram.com/cxyque/)
+- 📧 <a href="mailto:cayquelima4@gmail.com">Email</a>
+- 🌐 <a href="https://www.linkedin.com/in/cayque-santos-b54641230/" target="_blank">LinkedIn</a>
+- 📸 <a href="https://www.instagram.com/cxyque/" target="_blank">Instagram</a>
 
 <div align="left">
   <img height="200" src="https://i.pinimg.com/originals/56/f9/2c/56f92c63b67641b419cf3df54505771c.gif" />
 </div>
-```
